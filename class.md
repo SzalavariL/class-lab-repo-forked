@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: [Lajos]  
+- Certification: [Lajos SZALAVÁRI]  
 
 ## Instructions
 Please replace the placeholders with your details:
